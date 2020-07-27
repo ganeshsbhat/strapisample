@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_hours_of_operation_restaurant_hours",
+  "info": {
+    "name": "restaurant_hours",
+    "icon": "hotel"
+  },
+  "options": {},
+  "attributes": {
+    "interval": {
+      "type": "string"
+    },
+    "opening_hours": {
+      "type": "string"
+    },
+    "closing_hours": {
+      "type": "string"
+    }
+  }
+}
